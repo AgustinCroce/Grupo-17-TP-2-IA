@@ -1,0 +1,19 @@
+{
+  "name": "IA-TP2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "fast-csv": "^2.4.0",
+    "genetical": "^0.3.6",
+    "jsonfile": "^3.0.0",
+    "microverse": "^1.1.0"
+  }
+}
